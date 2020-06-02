@@ -1,17 +1,19 @@
-.flash-showing {
-  display: none;
-}
-
-.clickable {
+#clickableJs {
   cursor: pointer;
   color: #0088cc;
 }
 
-.clickable:hover {
+#clickableJs:hover {
   text-decoration: underline;
 }
 
-#js-description{
 
-  display: hidden;
+#js-description {
+
+  display: none;
+}
+
+#clickableJsDescription {
+
+    display: none;
 }
